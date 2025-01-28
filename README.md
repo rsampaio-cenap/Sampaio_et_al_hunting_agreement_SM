@@ -5,14 +5,13 @@ This repository contains supplemental information, data and codes to run the ana
 
 ### Description
 
-```S1``` Supplemental information.
+```SM_Sampaio_et_al.docx``` Supplementary Material.
+
+```Hunting_agreement.Rproj``` R project file.
 
 ```scripts``` analysis codes.
 
-```data``` data and other codes used in the analysis. 
-
-```results``` model results
-
+```data``` data, models, results and other codes used in the analysis. 
 
 # Contact Us
 If you have any questions please contact <ricardo.sampaio@icmbio.gov.com.br>
