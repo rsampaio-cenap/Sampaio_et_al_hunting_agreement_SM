@@ -7,12 +7,9 @@ This repository contains supplemental information, data and codes to run the ana
 
 ```S1``` Supplemental information.
 
+```scripts``` analysis codes.
 
-```src``` analysis codes.
-
-```data``` data used in the analysis.
-
-```bin``` toolbox with useful functions. 
+```data``` data and other codes used in the analysis. 
 
 ```results``` model results
 
