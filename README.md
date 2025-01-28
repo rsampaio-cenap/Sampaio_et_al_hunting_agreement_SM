@@ -6,9 +6,9 @@ Sampaio et al.,. 2025. Using camera traps to enhance community-based management 
 
 ### Description
 
-```scripts``` analysis codes.
-
 ```data``` data, models, results and other codes used in the analysis. 
+
+```scripts``` analysis codes.
 
 ```Hunting_agreement.Rproj``` R project file.
 
