@@ -1,4 +1,4 @@
-# Sampaio_et_al_hunting_agreement
+# Sampaio_et_al_hunting_agreement_SM
 
 This repository contains supplemental information, data and codes to run the analysis used in Sampaio, et al., Using camera traps to enhance community-based management of subsistence hunting in the Amazon. Conservation Biology (in press).
 
